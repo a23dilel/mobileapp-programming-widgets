@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">Widgets</string>
+    <string name="app_name">About me app</string>
+    <string name="profile_description">Profile of a person</string>
+    <string name="button_text">Click me to show more about me</string>
+    <string name="caption">Man Wearing Black Cap, Blue Hoodie and Backpack by Timothy Works used under free to use from Pexels</string>
+    <string name="aboutMe">Hi, my name is Jack Nero!</string>
 </resources>
