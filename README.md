@@ -135,8 +135,11 @@ Ovanför koden i MainActivity.java-filen skapas en knapp och finns en funktion f
 När knappen klickas kommer texten i TextView-elementet (android:text) att uppdateras med en string från strings.xml-filen, vilket resulterar i att texten visas.
 
 
-
+![screenshot.png](screenshot.png)
 Så här ser ut resultatet på appen.
+
+![screenshot2.png](screenshot2.png)
+Så här ser ut när knappen har klickats.
 
 ## Fördelar
 - Appen är snabb och enkel eftersom den inte har många element. 
